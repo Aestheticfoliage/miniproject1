@@ -1,0 +1,21 @@
+*{background-color: aqua;font-family: Georgia, 'Times New Roman', Times, serif
+    ;color: red;}
+    .h1{padding: 15p;text-align: left;}
+    
+    header {
+        padding: 60px;
+        text-align: center;
+        background: #13293d;
+        color: #fff;
+      } .myinfo{padding: 10px; display: inline; background-color: blueviolet;}
+
+/*  */
+#bio{ padding-right: 6;border: 10;background-color: brown;color: green;}
+footer {
+    padding: 20px;
+    text-align: center;
+    background: #13293d;
+    color: #fff;
+  }
+  
+  
